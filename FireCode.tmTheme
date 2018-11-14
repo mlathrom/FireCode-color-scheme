@@ -25,7 +25,8 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Comment</string>
+            <string>
+            </string>
             <key>scope</key>
             <string>comment</string>
             <key>settings</key>
@@ -435,6 +436,76 @@
                 <key>foreground</key>
                 <string>#F8F8F0</string>
             </dict>
+        </dict>
+        
+        
+        
+        
+        <dict>
+            <key>name</key>
+            <string>GitGutter deleted</string>
+            <key>scope</key>
+            <string>markup.deleted.git_gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f63249</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>GitGutter inserted</string>
+            <key>scope</key>
+            <string>markup.inserted.git_gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5ef2a4</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>GitGutter changed</string>
+            <key>scope</key>
+            <string>markup.changed.git_gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#f2e45e</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>GitGutter ignored</string>
+            <key>scope</key>
+            <string>markup.ignored.git_gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6d6d6d</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>GitGutter untracked</string>
+            <key>scope</key>
+            <string>markup.untracked.git_gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6d6d6d</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>GitGutter line annotation</string>
+            <key>scope</key>
+            <string>comment.line.annotation.git_gutter</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#eee</string>
+            </dict>  
         </dict>
     </array>
     <key>uuid</key>
