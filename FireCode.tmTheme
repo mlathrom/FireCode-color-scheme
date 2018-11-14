@@ -437,10 +437,6 @@
                 <string>#F8F8F0</string>
             </dict>
         </dict>
-        
-        
-        
-        
         <dict>
             <key>name</key>
             <string>GitGutter deleted</string>
